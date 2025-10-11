@@ -53,7 +53,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alauddnn/alauddnn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alauddnn/alauddnn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alauddnn/alauddnn/output/pacman-contribution-graph.svg">
-  ![Pacman Animation](https://raw.githubusercontent.com/alauddnn/alauddnn/output/pacman-contribution-graph.svg)
 </picture>
 
 ###
