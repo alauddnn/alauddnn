@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning learning Next.js, TypeScript, and modern UI design<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: I enjoy debugging more than coding sometimes 😅</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Next.js, TypeScript, and modern UI design<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: I enjoy debugging more than coding sometimes 😅</p>
 
 ###
 
